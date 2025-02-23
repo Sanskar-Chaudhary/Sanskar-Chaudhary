@@ -18,8 +18,8 @@
 - 🧮 [Calculator App](https://github.com/username/CalculatorApp): Simple calculator built using Flutter  
 
 ## 📫 How to reach me:
-- LinkedIn: [LinkedIn](https://linkedin.com/in/Sanskar-Chaudhary)  
-- Portfolio: [sanskar.dev](https://sanskar.dev) (coming soon)  
+- LinkedIn: [Sanskar-Chaudhary](https://linkedin.com/in/Sanskar-Chaudhary)  
+- Portfolio: [coming soon](https://youtu.be/dQw4w9WgXcQ?si=Iizo3rC12v3MecPC)
 - Email: sanskarchaudhary2003@gmail.com  
 
 ⭐ **Fun Fact:** I overcame my fear of water slides at two of the biggest waterparks in Bucharest and Istanbul! 🌊
