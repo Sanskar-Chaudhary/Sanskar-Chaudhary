@@ -25,6 +25,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Sanskar-Chaudhary&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![](https://hit.yhype.me/github/profile?account_id=110403931)
-
+![](https://komarev.com/ghpvc/?username=sanskar-chaudhary&style=flat)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
