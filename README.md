@@ -2,7 +2,7 @@
 
 🎓 Software Development Student | 🌍 Based in Estonia  
 💡 Passionate about Web Development, UI/UX Design, and Data Analytics  
-🔥 Working on [RecycleTrack](https://github.com/username/RecycleTrack) - A smart recycling tracking webapp  
+🔥 Working on [RecycleTrack](https://github.com/sanskar-chaudhary/RecycleTrack) - A smart recycling tracking webapp  
 💼 Building [Invoicerator](https://invoicerator.com) - Simplifying invoice management  
 
 ## 🌐 Socials:
